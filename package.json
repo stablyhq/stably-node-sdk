@@ -1,7 +1,11 @@
 {
   "name": "@updragon/updragon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UpDragon JS SDK for the web",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UpDragonHQ/updragon-node-sdk.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
