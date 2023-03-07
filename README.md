@@ -1,3 +1,5 @@
+![Logo](./full_logo.svg)
+
 <h1 align="center"><pre>@stablyhq/stably-node-sdk</pre></h1>
 
 <p align="center">
