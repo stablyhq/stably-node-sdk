@@ -37,5 +37,7 @@ To build, you can run `npm run build`.
 
 To have updated versions sent with the library, you'll want to first run `npm run gen`
 
+To publish, you can run: `npm publish --access public`
+
 # Contributing
 Please feel free to open issues or pull requests. We love any feedback!
