@@ -1,4 +1,4 @@
-![Logo](./full_logo.svg)
+![Stably Banner](./banner.png)
 
 <h1 align="center"><pre>@stablyhq/stably-node-sdk</pre></h1>
 
