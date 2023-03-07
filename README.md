@@ -23,7 +23,8 @@ const analytics = Analytics("YOUR_WRITE_KEY")
 ```
 You can find your write key at https://app.stably.dev/
 
-**1) Call**
+**2) Call**
+
 Re-use the above analytics instance and call track with your event name:
 ```node
 analytics.track("account_creation_start")
