@@ -9,7 +9,7 @@ export function createContext(): CoreExtraContext {
     page: pageDefaults(),
     userAgent: window.navigator.userAgent,
     library: {
-      name: "updragon",
+      name: "stably",
       version,
     },
     campaign: utm(window.location.search),

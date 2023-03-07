@@ -1,10 +1,10 @@
 {
-  "name": "@updragon/updragon",
+  "name": "@stablyhq/stably",
   "version": "1.0.1",
-  "description": "UpDragon JS SDK for the web",
+  "description": "Stably JS SDK for the web",
   "repository": {
     "type": "git",
-    "url": "https://github.com/UpDragonHQ/updragon-node-sdk.git"
+    "url": "https://github.com/stablyhq/stably-node-sdk-.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -24,7 +24,7 @@
     "eslint": "^8.26.0",
     "genversion": "^3.1.1",
     "prettier": "^2.8.1",
-    "typescript": "^4.9.4"
+    "typescript": "^4.9.5"
   },
   "dependencies": {
     "@types/uuid": "^9.0.0",

@@ -2,7 +2,7 @@ import { createContext } from "./context/createContext";
 import { CoreSegmentEvent, SegmentEventType } from "interfaces";
 import { v4 as uuidv4 } from "uuid";
 
-const BACKEND_URL = "app.updragon.com";
+const BACKEND_URL = "app.stably.dev";
 
 interface ExtraOptions {
   cdnUrl?: string;
